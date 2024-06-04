@@ -17,7 +17,7 @@ School Student :THPT Nguyễn Công Trứ Hà Tĩnh
 
 ## Social media :mailbox_with_no_mail:
 
-[![Discord URL](https://img.shields.io/discord/1241342977880883201?style=flat&logo=Discord&logoSize=auto&label=Join%20Community)]([https://discord.com/channels/1241342977880883201/1241347452406071416](https://discord.gg/RtBnzUTC)).
+[![Discord URL](https://img.shields.io/discord/1241342977880883201?style=flat&logo=Discord&logoSize=auto&label=Join%20Community)]((https://discord.gg/RtBnzUTC)).
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/__andrew_phan__/)
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/New_Show4083/)
 
